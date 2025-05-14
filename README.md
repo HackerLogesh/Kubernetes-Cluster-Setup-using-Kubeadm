@@ -211,7 +211,7 @@ bash
 kubectl get pods --all-namespaces
 This completes the basic Kubernetes cluster setup using kubeadm. You can now start deploying applications to your cluster!
 
-Alternative Kubernetes Cluster Setup Methods
+# Alternative Kubernetes Cluster Setup Methods
 Here are several alternative approaches to setting up a Kubernetes cluster beyond the standard kubeadm method:
 
 1. Minikube (Single-Node Local Development)
